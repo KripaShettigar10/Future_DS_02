@@ -118,7 +118,7 @@ This project demonstrates how data analytics can be used to explore customer chu
 
 👩‍💻 Project Credits
 
-Created by: Kripa
+Created by: Kripa K
 
 BSc Data Science Student
 
